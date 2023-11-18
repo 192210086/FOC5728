@@ -2,8 +2,8 @@
 
 int main() {
     
-    printf("Name: Sharan.B\n");
-    printf("Reg No: 192210486\n\n");
+    printf("Name: Venkata kiran.Y\n");
+    printf("Reg No: 192210086\n\n");
 
    
     int n;
